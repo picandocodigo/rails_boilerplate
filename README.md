@@ -1,0 +1,3 @@
+# Bloggerplate
+
+Rails boilerplate
