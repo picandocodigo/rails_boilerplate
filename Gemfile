@@ -6,6 +6,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'therubyracer', platforms: :ruby
 gem 'jquery-rails'
 gem 'friendly_id', '~> 5.0.0'
+gem 'redcarpet'
 
 group :doc do
   gem 'sdoc', require: false
